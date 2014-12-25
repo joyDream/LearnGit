@@ -4,3 +4,4 @@ Add some text
 Remote repo
 Add branch
 Merge in master
+Merge
